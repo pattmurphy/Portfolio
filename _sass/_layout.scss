@@ -15,12 +15,12 @@ h3 {
 	line-height: 1.5;
 }
 h1 {
-	color: $main;
+	color: #FFFFFF;
 	font-size: 2.5em;
 	a,
 	a:visited {
 		text-decoration: none;
-		color: $main;
+		color: #FFFFFF;
 	}
 }
 h2 {
@@ -37,11 +37,13 @@ a:hover {
 	text-decoration: underline;
 }
 header {
-	background: $header;
+	background-image: url("../assets/pcb.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
 	padding: 0px 15px;
 	text-align: center;
 	margin: 50px 0 0;
-	height: 50vh;
+	height: 40vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
