@@ -8,11 +8,16 @@ body {
 }
 h1,
 h2,
-h3 {
+h3,
+h4 {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
 	line-height: 1.5;
+	padding-top: 10px;
+}
+h4 {
+	padding-bottom: 5px;
 }
 h1 {
 	color: #FFFFFF;
@@ -30,6 +35,7 @@ h1 {
 }
 h2 {
 	font-size: 2em;
+	text-align: center;
 }
 a,
 a:visited {
@@ -43,8 +49,10 @@ a:hover {
 }
 header {
 	background-image: url("../assets/pcb.jpeg");
+	background-attachment: fixed;
+	background-position: center;
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: cover;
 	padding: 0px 15px;
 	text-align: center;
 	margin: 50px 0 0;
