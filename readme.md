@@ -1,4 +1,4 @@
-View the site [here](https://diningroomchair.github.io/)
+View the site [here](https://pat-t-murphy.github.io/)
 
 Github Pages website made using Jekyll
 
