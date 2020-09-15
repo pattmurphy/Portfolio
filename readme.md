@@ -1,4 +1,4 @@
-View the site [here](https://pat-t-murphy.github.io/)
+View the site [here](https://pattmurphy.github.io/)
 
 Github Pages website made using Jekyll
 
